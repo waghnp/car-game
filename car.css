@@ -29,7 +29,8 @@ button{
     padding-bottom: 50px;
 }
 
-.new_footer_top .footer_bg {
+.footer_bg {
+    margin-bottom: 300px;
     position: absolute;
     bottom: 0 ;
     background: url("http://droitthemes.com/html/saasland/img/seo/footer_bg.png") no-repeat scroll center 0;
@@ -37,7 +38,7 @@ button{
     height: 247px;
 }
 
-.new_footer_top .footer_bg .footer_bg_one {
+.footer_bg .footer_bg_one {
     background: url('https://www.webplover.com/wp-content/uploads/2020/07/animat-road-trip-color.gif?is-pending-load=1') no-repeat center center;
     width: 80px;
     height: 80px;
